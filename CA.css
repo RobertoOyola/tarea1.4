@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: lightgray;
+    color: black;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: gray;
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: purple;
+    margin-top: 40px;
+}
+
+h3 {
+    color: #333;
+    margin-top: 20px;
+}
+
+li {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
